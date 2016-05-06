@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RottenPotatoes demo app: getting started
 
 This app is associated with the free [online
@@ -30,3 +31,6 @@ directory.
 0. Run `rails server -p $PORT -b $IP` to start the app.  Cloud9 will pop
 up a window showing the URL to visit in your browser to interact with
 the running app.
+=======
+# abc
+>>>>>>> ab36f6ca7d08f6f04ee083112496d23b3ba66ca9
